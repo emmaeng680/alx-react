@@ -40,5 +40,4 @@
 ---
 
 ## Author
-* **Oppong Emmanuel** (@emmaeng680) - 
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>]
+* **Oppong Emmanuel** (@emmaeng680)
